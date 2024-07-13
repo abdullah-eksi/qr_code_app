@@ -1,1 +1,3 @@
-
+*.hack linguist-detectable=false
+*.php linguist-detectable=true
+*.js linguist-detectable=true
